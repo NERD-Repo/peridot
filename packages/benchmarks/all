@@ -1,4 +1,8 @@
 {
+    "packages": [
+        "peridot/bin/run_benchmarks"
+    ],
+
     "imports": [
         "peridot/packages/benchmarks/modular"
     ]
