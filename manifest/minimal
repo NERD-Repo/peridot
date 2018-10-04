@@ -5,6 +5,6 @@
              path="peridot"
              remote="https://fuchsia.googlesource.com/peridot"
              gerrithost="https://fuchsia-review.googlesource.com"
-             remote-branch="milestone-1011"/>
+             remotebranch="milestone-1011"/>
   </projects>
 </manifest>
