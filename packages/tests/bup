@@ -1,5 +1,0 @@
-{
-    "packages": [
-        "//peridot/third_party/bup:bup_tests"
-    ]
-}
